@@ -1,4 +1,4 @@
-# Mobil’Air Grenobl
+# Mobil’Air Grenoble
 
 Mobil’Air Grenoble is a web-based visualization tool designed to explore the impact of our transportation habits on air quality and the environment, as well as to better understand the public transport infrastructure available across the Grenoble metropolitan area.
 
