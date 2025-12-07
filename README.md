@@ -14,10 +14,13 @@ Mobil’Air Grenoble is aimed at citizens, urban planners, students, and anyone 
 
 ---
 
-## Run the server
+## Running the server locally
 
-Run the following command from the project root:
+To launch the server locally, run the following command from the project root:
 
 ```bash
 ./scripts/start-server.sh
 ```
+
+## Github pages
+The project is hosted on github pages at [/public](public/)
